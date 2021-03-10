@@ -1,3 +1,5 @@
 # bWAPP-Exersices
 
-bWAPP kurulumu ve zafiyetlerinin çözümü 
+(en) bWAPP setup and solution of problems
+
+(tr) bWAPP kurulumu ve zafiyetlerinin çözümü 
